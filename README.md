@@ -14,6 +14,12 @@ Adobe acrobat pdf but <b>free</b>
 
 <h2> Breakdown</h2>
 
-| Command   | Description | Stack |
-| --------- | ----------- | ----- |
-| `Backend` | Create API  | Flask |
+| Language/Framework              | Description                       | Stack   |
+| ------------------------------- | --------------------------------- | ------- |
+| `Java`                          | Backend                           | Spring  |
+| `Python`                        | Data/Modeling                     | numpy   |
+| `Javascript`                    | UI/UX                             | React   |
+| `Electron` `JavaFX`             | Desktop Framework                 | Pending |
+| `Deployment`                    | installation, updates,usersupport | Pending |
+| `Security and Performance`      | pending                           | Pending |
+| `Testing and Quality Assurance` | Desktop Framework                 | Pending |
